@@ -1,5 +1,5 @@
 import React from "react";
-import Pagination from "./pagination";
+import Pagination from "./Pagination";
 import ResidentInfo from "./ResidentInfo";
 
 //Componente que es el contenedor de las card y que muestra la info de la location
@@ -46,3 +46,4 @@ const Card = ({ result, currentPage, changePage }) => {
 };
 
 export default Card;
+//mayuscula siempre en components

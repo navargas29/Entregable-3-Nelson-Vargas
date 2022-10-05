@@ -24,3 +24,4 @@ const Pagination = ({ currentPage, changePage, totalPage }) => {
 };
 
 export default Pagination;
+//mayuscula siempre en components

@@ -45,3 +45,4 @@ const NavBar = ({ changeLocation }) => {
 };
 
 export default NavBar;
+//mayuscula siempre en components
