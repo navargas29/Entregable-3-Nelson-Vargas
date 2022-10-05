@@ -1,5 +1,5 @@
 import React from "react";
-import Pagination from "./Pagination";
+import Pagination from "./pagination";
 import ResidentInfo from "./ResidentInfo";
 
 //Componente que es el contenedor de las card y que muestra la info de la location

@@ -1,8 +1,8 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import Card from "./components/Card";
-import Footer from "./components/Footer";
-import NavBar from "./components/Navbar";
+import Card from "./components/card";
+import Footer from "./components/footer";
+import NavBar from "./components/navbar";
 
 function App() {
   //Ontebemos un numero ramdon
